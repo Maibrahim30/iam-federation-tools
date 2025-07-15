@@ -1,4 +1,4 @@
-# IAM Federation tools
+ÿþ# IAM Federation tools
 
 This repository contains tools for letting workloads that run outside of Google Cloud
 use [workload identity federation](https://cloud.google.com/iam/docs/workload-identity-federation)
@@ -37,4 +37,4 @@ and doesn't require you to manage and store any secrets or keys.
 _IAM Federation tools is an open-source project and not an officially supported Google product._
 
 _All files in this repository are under the
-[Apache License, Version 2.0](LICENSE.txt) unless noted otherwise._
+[Apache License, Version 2.0](LICENSE.txtunless noted otherwise._
